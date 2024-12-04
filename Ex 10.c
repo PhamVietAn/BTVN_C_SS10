@@ -19,7 +19,7 @@ int main(){
 			}
     	}
 	}
-	printf("\nmang sau khi sap xep tang dan theo duong cheo chinh:\n");
+	printf("\nmang sau khi sap xep tang dan theo duong cheo phu:\n");
 	for(int i=0; i<n; i++) {
     	for(int j=0; j<m; j++) {
     	    printf("%d ", arr[i][j]);
@@ -27,6 +27,5 @@ int main(){
     printf("\n");
 	}
 
-	
 return 0;
 }
